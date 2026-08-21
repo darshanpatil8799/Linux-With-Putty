@@ -1,12 +1,7 @@
-<<<<<<< HEAD
+
 # 🐧 Linux Server with PuTTY on AWS EC2
-=======
+
 # ☁️ AWS S3 Static Website Hosting
-
-
-
-
->>>>>>> b1da30f (linux commit)
 
 ---
 
